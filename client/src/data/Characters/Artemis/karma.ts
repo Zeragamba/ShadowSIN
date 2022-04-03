@@ -2,6 +2,11 @@ import { BalanceLog } from '../../../System/BalanceLog'
 
 export const karma: BalanceLog = [
   {
+    date: '2022-04-01T12:02:00',
+    value: -10,
+    note: 'Skill: Athletics 1, Perception 1',
+  },
+  {
     date: '2022-03-22T13:45:01',
     value: -5,
     note: 'Skill: Piloting Specialization (Air Craft)',
